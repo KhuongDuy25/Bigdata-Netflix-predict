@@ -1,0 +1,9 @@
+dash
+flask
+kafka-python
+pymongo
+pandas
+scikit-learn
+plotly
+faker
+xgboost
